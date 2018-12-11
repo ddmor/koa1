@@ -1,0 +1,26 @@
+!dev/build/
+#build/
+#dist/
+*.map
+
+## 前端项目通用
+node_modules*
+FplusTmpFiles
+build
+
+package-lock.json
+
+.vscode
+dev_config
+ 
+## IDE 相关
+
+*.sublime-workspace
+*.suo
+*.user
+*.sln.docstates
+WebWorkbench.mswwsettings
+_notes
+.settings
+.idea
+ 
